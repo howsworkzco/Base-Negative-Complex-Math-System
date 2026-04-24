@@ -1,4 +1,4 @@
-# Base-Negative Complex. What is it?
+# What is Base-Negative Complex?
 Base-Negative Complex (BNC) is a new math system developed by howsworkzco.  
 This math system allows us to visuaalize non-existent numbers that  
 wouldn't be in our normal mathematics.  
